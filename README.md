@@ -25,8 +25,8 @@ You can view my full portfolio here:
 💻https://github.com/NaveenKumarDSA
 
 
-   📸<h2>Dashboard Previews</h2>
-🔹<h3>Employee Overview</h3>
+ <h2>📸 Dashboard Previews</h2>
+ <h3>🔹Employee Overview</h3>
 
 
 🔹Attrition Analysis
