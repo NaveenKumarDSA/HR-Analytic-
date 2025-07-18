@@ -41,8 +41,6 @@ Summary Dashboard
 
 🧑‍💼 Author
 
-Naveen Kumar
-
+**Naveen Kumar**
 Data Engineer at Tiger Analytics | Tableau | Power BI | SQL | Python
-
 📧 naveen.tableau18@gmail.com
