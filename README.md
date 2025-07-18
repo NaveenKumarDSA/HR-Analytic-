@@ -29,13 +29,13 @@ You can view my full portfolio here:
  <h3>🔹Employee Overview</h3>
 
 
-🔹Attrition Analysis
+ <h3>🔹Attrition Analysis </h3>
 
 
-🔹Performance & Promotion
+<h3>🔹Performance & Promotion </h3>
 
 
-🔹Summary Dashboard
+<h3>🔹Summary Dashboard </h3>
 
 
 🧑‍💼 Author
