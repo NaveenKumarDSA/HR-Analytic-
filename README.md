@@ -10,14 +10,15 @@ This Power BI project provides interactive insights into employee attrition and 
 - indicators showing promotable employee rates
 --
 
- <h3>🔧Tools Used </h3>
+ <h2>🔧Tools Used </h2>
+ 
 - **Power Query** -To Transform data and make ETL process
 - **Excel**
 - **Power BI Desktop**
 - DAX measures and calculated fields
 - Data model with relationships
 
- <h3>🔗Portfolio </h3>
+ <h2>🔗Portfolio </h2>
 You can view my full portfolio here:
 
 💻https://github.com/NaveenKumarDSA
@@ -36,7 +37,7 @@ You can view my full portfolio here:
 <h3>🔹Summary Dashboard </h3>
 
 
-<h3>🧑‍💼Author </h3>
+<h2>🧑‍💼Author </h2>
 
 
 **Naveen Kumar**
