@@ -22,7 +22,9 @@ This Power BI project provides interactive insights into employee attrition and 
 
 You can view my full portfolio here:
 
-💻 [github.com/saraalimansi](https://github.com/NaveenKumarDSA)
+💻 [github.com/NaveenKumarDSA]
+
+
 
 📸 Dashboard Previews
 🔹 Employee Overview
