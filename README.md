@@ -3,6 +3,7 @@
 This Power BI project provides interactive insights into employee attrition and retrenchment trends, helping HR teams make data-driven decisions regarding talent retention and performance.
 
  <h2>📌Key Features</h2>
+ 
 - Department-wise average performance of retrenched employees
 - Insights into promotability and its link with attrition
 - Visual KPIs: Attrition rates, performance scores, promotion eligibility
