@@ -26,9 +26,9 @@ You can view my full portfolio here:
 
 
 
-📸 Dashboard Previews
-🔹 Employee Overview
-Employee_Overview
+📸 <h2>Dashboard Previews</h2>
+🔹 <h3>Employee Overview</h3>
+
 
 🔹 Attrition Analysis
 Attrition Analysis
@@ -38,6 +38,7 @@ Perforamnce&Permotion
 
 🔹 Summary Dashboard
 Summary Dashboard
+
 
 🧑‍💼 Author
 
