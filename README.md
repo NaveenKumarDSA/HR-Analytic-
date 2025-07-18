@@ -1,8 +1,8 @@
-HR Data Report 📊
+ <h1> **HR Data Report** (h1)</h1> 📊
 
 This Power BI project provides interactive insights into employee attrition and retrenchment trends, helping HR teams make data-driven decisions regarding talent retention and performance.
 
-📌 Key Features
+📌 **Key Features**
 - Department-wise average performance of retrenched employees
 - Insights into promotability and its link with attrition
 - Visual KPIs: Attrition rates, performance scores, promotion eligibility
