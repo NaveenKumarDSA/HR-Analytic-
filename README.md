@@ -9,6 +9,7 @@ This Power BI project provides interactive insights into employee attrition and 
 - Visual KPIs: Attrition rates, performance scores, promotion eligibility
 - Clear filters and slicers using image-based buttons
 - indicators showing promotable employee rates
+
 --
 
  <h2>🔧Tools Used </h2>
