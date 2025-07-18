@@ -22,7 +22,7 @@ This Power BI project provides interactive insights into employee attrition and 
 
 You can view my full portfolio here:
 
-💻 [github.com/NaveenKumarDSA]
+💻
 
 
 
@@ -40,6 +40,9 @@ Perforamnce&Permotion
 Summary Dashboard
 
 🧑‍💼 Author
+
 Naveen Kumar
+
 Data Engineer at Tiger Analytics | Tableau | Power BI | SQL | Python
+
 📧 naveen.tableau18@gmail.com
