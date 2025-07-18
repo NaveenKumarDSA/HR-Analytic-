@@ -26,18 +26,16 @@ You can view my full portfolio here:
 
 
 
-📸 <h2>Dashboard Previews</h2>
-🔹 <h3>Employee Overview</h3>
+📸<h2>Dashboard Previews</h2>
+🔹<h3>Employee Overview</h3>
 
 
 🔹 Attrition Analysis
-Attrition Analysis
 
-🔹 Perforamnce&Permotion
-Perforamnce&Permotion
+🔹 Performance & Promotion
+
 
 🔹 Summary Dashboard
-Summary Dashboard
 
 
 🧑‍💼 Author
