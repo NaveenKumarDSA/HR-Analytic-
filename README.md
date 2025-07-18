@@ -38,7 +38,7 @@ You can view my full portfolio here:
 <h3>🔹Summary Dashboard </h3>
 
 
-🧑‍💼 Author
+<h3>🧑‍💼Author </h3>
 
 **Naveen Kumar**
 
